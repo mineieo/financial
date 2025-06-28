@@ -1,3 +1,3 @@
-# financial
+# Financial
 Statistics paper competetion
 
